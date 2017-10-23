@@ -1,0 +1,53 @@
+body{
+	background:#f1f0ee;
+	color:#333333;
+}
+#bodydivevents
+{
+	width:70%; margin: auto;
+}
+
+.headerDiv, .contentDiv {
+float: left;
+clear:both;
+width: 100%;
+}
+
+
+
+.titleText {
+float: left;
+font-size: 1.1em;
+margin: 5px;
+}
+#myHeader, #myHeader1, #myHeader3,#myHeader2,#myHeader4,#myHeader6, #myHeader5,#myHeader7{
+font-size: 1.1em;
+color: #000000;
+background-color: #ffffff;
+font-weight: bold;
+margin: 5px;
+}
+.headerDiv{
+	margin-top:10px;
+background-color: #ffffff;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+color: #000000;
+}
+
+.contentDiv {
+	height:auto;
+background-color: #ffffff;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+margin-bottom: 10px;
+}
+#myContent,#myContent1,#myContent3,#myContent2, #myContent4, #myContent5.#myContent6{
+margin: 5px 10px;
+}
+.headerDiv a {
+float: right;
+margin: 10px 10px 5px 5px;
+}
+.headerDiv a:hover{
+color: #FFFFF;
+}

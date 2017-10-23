@@ -1,0 +1,151 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a, a:visited {
+	color: white;
+	text-decoration: none;
+}
+body{
+	background:#f1f0ee;
+	color:#333333
+}
+
+#welcome_image{
+
+margin-left:30%;
+}
+
+@media only screen and (max-width:720px )
+{
+
+	#welcome_image{
+margin-left: 0;
+
+	}
+
+
+#welcome_image img{
+width:350px;
+
+}}
+.row-centered {
+    text-align:center;}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+
+#goals_vision
+{
+	width:70%;
+	 margin: auto;
+
+
+}
+
+#goals h2{
+	text-align:center;
+}
+#goals
+{
+	text-align: justify;
+
+float:left;
+
+}
+
+#goals img
+{
+	 margin: auto;
+	 display:block;
+}
+#vision h2{
+	text-align:center;
+}
+#vision
+{		text-align: justify;
+	 position: relative;
+margin-top: :10px;
+
+}
+
+#vision img
+{
+	 margin: auto;
+	 display:block;
+
+}
+
+
+#Resources
+{
+		clear: both;
+
+	text-align: center;
+
+}
+#Notifications
+{
+		clear: both;
+
+	margin-top: 10px;
+	text-align: center;
+
+}
+#eventsdiv
+{
+
+
+	margin:1px;
+
+}
+
+.evnts
+{
+
+margin:10px;
+
+  height:370px;
+overflow:hidden;
+position: relative;
+float:left;
+
+		 -webkit-box-shadow: -1px 0px 19px 2px rgba(0,0,0,0.42);
+ -moz-box-shadow: -1px 0px 19px 2px rgba(0,0,0,0.42);
+ box-shadow: -1px 0px 19px 2px rgba(0,0,0,0.42);
+}
+
+.eventsimag img
+{
+
+height:280px;
+
+}
+#eventsimag
+{
+	height:280px;
+	
+}
+
+hr{
+	height: 2px;
+	width:80%;
+	background: black;
+	color: black;
+
+}
+.slider {
+    overflow: auto;
+    position: relative;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+}
+
+@media screen and (max-width: )

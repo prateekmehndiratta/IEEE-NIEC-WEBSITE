@@ -1,0 +1,45 @@
+﻿body
+{
+    background-color:#5ebec0;
+}
+
+.info{
+
+
+
+	}
+
+
+
+
+.vision{
+
+
+
+
+}
+#d01
+{
+
+	margin-left:30px;
+		width:250px;
+		border:1px solid black;
+		text-align:center;
+		position:relative;
+		float:left;
+}
+#d01 img
+{
+	margin: auto;
+	 display:block;
+	border-radius: 50%;
+			position:relative;
+
+}
+
+#footer{
+	width:100%;
+	height:150px;
+	background-color:green;
+
+}

@@ -1,0 +1,36 @@
+body{
+	background:#f1f0ee;
+	color:#333333;
+}
+ #map {
+        height: 400px;
+
+       }
+
+			 /* centered columns styles */
+			 .row-centered {
+			     text-align:center;}
+			 .col-centered {
+			     display:inline-block;
+			     float:none;
+			     /* reset the text-align */
+			     text-align:left;
+			     /* inline-block space fix */
+			     margin-right:-4px;
+			 }
+
+#form_bondary
+{
+
+	clear:both;
+	margin-top:50px;
+	width:900px; margin: auto;
+
+}
+#form
+{clear:both;
+	margin-top:50px;
+	border: solid;
+	
+
+}
